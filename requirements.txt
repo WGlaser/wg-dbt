@@ -1,0 +1,6 @@
+prefect
+prefect-github
+prefect-dbt
+prefect-docker
+prefect-gcp
+prefect-shell

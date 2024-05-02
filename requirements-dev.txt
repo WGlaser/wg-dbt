@@ -1,0 +1,6 @@
+black
+isort
+flake8
+pre-commit
+interrogate
+prefect-docker
